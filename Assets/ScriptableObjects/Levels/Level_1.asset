@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1666815bed67d48cb9006a1e46969f01, type: 3}
+  m_Name: Level_1
+  m_EditorClassIdentifier: 
+  boardSize: {x: 6, y: 6}
+  difficulty: 0
+  wave:
+  - waveID: 0
+    order:
+    - waveOrderID: {x: 0, y: 0}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: a9f0e5cc21cb54e93a3eda311273ee66, type: 2}
+    - waveOrderID: {x: 0, y: 1}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: a9292988f66af4475b16668b2dcc6da0, type: 2}
+    - waveOrderID: {x: 0, y: 2}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 5772fa35009e543a7b9a931ddbee3baf, type: 2}
+  - waveID: 1
+    order:
+    - waveOrderID: {x: 1, y: 0}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 15f3782032aff4dc7b4b68e128079c94, type: 2}
+    - waveOrderID: {x: 1, y: 1}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 340501c21a7204377810a0ed2f322df2, type: 2}
+    - waveOrderID: {x: 1, y: 2}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 02deea81021864beb94a484898dd72db, type: 2}
+  - waveID: 2
+    order:
+    - waveOrderID: {x: 2, y: 0}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 1e555492c7f554932aec3214b9fa74bb, type: 2}
+    - waveOrderID: {x: 2, y: 1}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 757e010ef55d74c3fa8515f3be270e1a, type: 2}
+    - waveOrderID: {x: 2, y: 2}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 964687d897e264f42800edfe6ea06b8e, type: 2}
+  - waveID: 2
+    order:
+    - waveOrderID: {x: 2, y: 0}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 3402cd45c8dc94248ae58ccabd6f64bf, type: 2}
+    - waveOrderID: {x: 2, y: 1}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 6f18662945b464f1fbb2fd825ec9e5a2, type: 2}
+    - waveOrderID: {x: 2, y: 2}
+      timer: 120
+      orderStatus: 0
+      ranOutOfTime: 0
+      madeIncorrectly: 0
+      isOrderSucess: 0
+      orderItem:
+      - {fileID: 11400000, guid: 9769f55edf82d42ebba1ffcc4380c950, type: 2}

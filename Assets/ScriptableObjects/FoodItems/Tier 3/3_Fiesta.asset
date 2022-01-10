@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec3b335e6a2be44dfa381441072fe3cb, type: 3}
+  m_Name: 3_Fiesta
+  m_EditorClassIdentifier: 
+  itemName: Fiesta
+  pointReward: 0
+  mergeLevel: 2
+  createsItem: []
+  ingredients:
+  - {fileID: 11400000, guid: 5772fa35009e543a7b9a931ddbee3baf, type: 2}
+  - {fileID: 11400000, guid: 02deea81021864beb94a484898dd72db, type: 2}
+  - {fileID: 11400000, guid: 757e010ef55d74c3fa8515f3be270e1a, type: 2}
+  isUnlocked: 0
+  itemPrefab: {fileID: 202796524854074542, guid: 8df249c4af7ba40cfb40cd9469e284e5, type: 3}

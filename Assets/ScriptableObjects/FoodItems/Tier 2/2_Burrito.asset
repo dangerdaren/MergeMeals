@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec3b335e6a2be44dfa381441072fe3cb, type: 3}
+  m_Name: 2_Burrito
+  m_EditorClassIdentifier: 
+  itemName: Burrito
+  pointReward: 0
+  mergeLevel: 2
+  createsItem:
+  - {fileID: 11400000, guid: 6f18662945b464f1fbb2fd825ec9e5a2, type: 2}
+  ingredients:
+  - {fileID: 11400000, guid: 79fd168a3ce3a4687b90ea2fdacf036f, type: 2}
+  - {fileID: 11400000, guid: 575ff580dc1b94febac376a0cd12b6d4, type: 2}
+  - {fileID: 11400000, guid: 46e8f499df7c14b878001e62081bbd8c, type: 2}
+  - {fileID: 11400000, guid: 67005cbba7e674b4d8a590e3e0053dcc, type: 2}
+  isUnlocked: 0
+  itemPrefab: {fileID: 202796524854074542, guid: d16138b5570c14bf2b117dedd3e39280, type: 3}
