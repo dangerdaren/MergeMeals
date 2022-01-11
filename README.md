@@ -22,6 +22,9 @@ Finally, if you're looking for some idea of how I use Scriptable Objects as reus
 <br>
 You can see how they are nested together.
 
+## Please Note
+This is very much a snapshot-in-time of a work in progress. As mentioned at the top, we use PlasicSCM for our actual version control and collaboration, so the current uploaded coded here may not reflect where the actual game is at the moment.
+
 Let me know if you have any questions!
 <br>
 -Daren
