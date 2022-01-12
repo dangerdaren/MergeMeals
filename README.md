@@ -1,6 +1,8 @@
 # MergeMeals
 This is a project I am working on with a friend in another state. While we actually use PlasticSCM for remote collaboration, I've set up this repository for the purpose of sharing my code with any interested parties.
 
+To learn more about this project visit [Merge: Meals](https://daren-stottrup.notion.site/Merge-Meals-1f50444c94a7426ebe59e2c6b81f927e) on my [portfolio](https://daren-stottrup.notion.site/Past-Current-Projects-3bc5aac8cfcb4d32af26f20301371155).
+
 ## Script Owners
 Most of the scripts are mine, with the following exceptions:
 *<br> - MergeManager.cs*
