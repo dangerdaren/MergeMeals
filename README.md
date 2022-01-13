@@ -17,9 +17,9 @@ If you are looking for the most comprehensive script in this repository that I'v
 
 ## Scriptable Objects
 Finally, if you're looking for some idea of how I use Scriptable Objects as reusable templates, I'd recommend (in this order):
-<br> - [Level.cs](Assets/Scripts/Managers/Level.cs)  <=*This is the actual Scriptable Object that references the following scripts.*
+<br> - [Level.cs](Assets/Scripts/Managers/Level.cs)  <=*Scriptable Object*
 <br> - [Wave.cs](Assets/Scripts/Managers/Wave.cs)
-<br> - [FoodItem.cs](Assets/Scripts/FoodItems/FoodItem.cs)
+<br> - [FoodItem.cs](Assets/Scripts/FoodItems/FoodItem.cs) <=*Scriptable Object*
 <br> - [ListableIngredient.cs](Assets/Scripts/FoodItems/ListableIngredient.cs)
 <br>
 You can see how they are nested together.
