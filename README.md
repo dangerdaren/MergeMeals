@@ -52,7 +52,7 @@ If you're looking for some idea of how I use Scriptable Objects as reusable temp
 <br>
 You can see how they are nested together.
 
-And finally, to see the other manager scripts, you can check out the [Managers folder here.](https://github.com/dangerdaren/MergeMeals/tree/master/Assets/Scripts/Managers).
+And finally, to see the other manager scripts, you can check out the [Managers folder here](https://github.com/dangerdaren/MergeMeals/tree/master/Assets/Scripts/Managers).
 
 
 ## Please Note
