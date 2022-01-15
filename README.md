@@ -5,7 +5,7 @@ To learn more about this game visit [Merge: Meals](https://daren-stottrup.notion
 
 To read about what I'm most proud of with this project see: [OrderManager.cs](#ordermanagercs) and [Level.cs](#levelcs).
 
-## Scripts Rundown
+## Script Rundown
 The game starts with [LevelManager.cs](Assets/Scripts/Managers/LevelManager.cs) telling the other manager scripts to begin initializing their settings, and sets up the camera to fit the boardsize. [FloorManager.cs](Assets/Scripts/Managers/FloorManager.cs) grabs the level data from the prebuilt [Level.cs](Assets/Scripts/Managers/Level.cs) scriptable object, and [MergeManager](Assets/Scripts/Managers/MergeManager.cs) learns the coordinates of the board.
 
 ### Level.cs
