@@ -3,7 +3,7 @@ This is a project I am working on with a friend in another state. While we actua
 
 To learn more about this game visit [Merge: Meals](https://daren-stottrup.notion.site/Merge-Meals-1f50444c94a7426ebe59e2c6b81f927e) on my [portfolio](https://daren-stottrup.notion.site/Game-Portfolio-3bc5aac8cfcb4d32af26f20301371155).
 
-To read about what I'm most proud of with this project see: [OrderManager](#OrderManager) and [Level](#Level).
+To read about what I'm most proud of with this project see: [OrderManager](#OrderManager.cs) and [Level](#Level.cs).
 
 ## Scripts Rundown
 The game starts with [LevelManager.cs](Assets/Scripts/Managers/LevelManager.cs) telling the other manager scripts to begin initializing their settings, and sets up the camera to fit the boardsize. [FloorManager.cs](Assets/Scripts/Managers/FloorManager.cs) grabs the level data from the prebuilt [Level.cs](Assets/Scripts/Managers/Level.cs) scriptable object, and [MergeManager](Assets/Scripts/Managers/MergeManager.cs) learns the coordinates of the board.
