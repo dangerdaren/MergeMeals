@@ -13,10 +13,11 @@ The game starts with [LevelManager.cs](Assets/Scripts/Managers/LevelManager.cs) 
 <br>
 For example:
 
-
 Wave 0 might contain three customer orders. Order 0, 1, and 2. Order 0 will contain a Burger, Order 1 will contain Sushi, and Order 2 will contain a taco. Alternatively, maybe Order 2 contains a taco and a burrito. The designer can then go on to build the next wave.
 
 These Waves and Orders become known internally as Wave.Orders, and can be assigned a shorthand Vector2Int called "orderID" for communicating with other script. So the above example of a taco and burrito would be referenced by orderID: "0,2". This is used heavily in [OrderManager.cs](Assets/Scripts/Managers/OrderManager.cs).
+
+To see an image of the Level.cs Scriptable Object in the Unity Inspector, visit my [portfolio page here](https://daren-stottrup.notion.site/Scriptable-Object-Level-cs-d7e79daad0264a55b00f292dc9a150c3).
 
 ## OrderManager.cs
 The big daddy script, the one-ring to rule them all so to speak, is [OrderManager.cs](Assets/Scripts/Managers/OrderManager.cs). Right away, it looks at the level and and all the customer orders that are going to come in, and [builds out an ingredient list](https://github.com/dangerdaren/MergeMeals/blob/a9d0cbafbe44d5938ed04e2b398cf9bd9739cebd/Assets/Scripts/Managers/OrderManager.cs#L605-L700) for every order.
