@@ -1,4 +1,8 @@
-# MergeMeals
+<p align="center">
+  <img src="https://daren-stottrup.notion.site/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F3afb073a-8a7d-47b6-8d67-49970ce3b050%2Fezgif-3-e4bd78fcb2d2.gif?table=block&id=2aea6d31-0899-4611-baa5-80d629827914&spaceId=f2ac5bd7-db8b-4b29-8205-809cd644ec3b&userId=&cache=v2">
+</p>
+
+# Merge: Meals
 This is a project I am working on with a friend in another state. While we actually use PlasticSCM for remote collaboration, I've set up this repository for the purpose of sharing my code with any interested parties.
 
 To learn more about this game visit [Merge: Meals](https://daren-stottrup.notion.site/Merge-Meals-1f50444c94a7426ebe59e2c6b81f927e) on my [portfolio](https://daren-stottrup.notion.site/Game-Portfolio-3bc5aac8cfcb4d32af26f20301371155).
