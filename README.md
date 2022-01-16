@@ -56,6 +56,10 @@ If you're looking for some idea of how I use Scriptable Objects as reusable temp
 <br>
 You can see how they are nested together.
 
+## No Null Checks?
+You might notice the lack of null checks, and this is intentional. At this stage of development, I'm running very specific tests where I know what I'm anticipating will happen, but I want to see where the code might be running into a null value where I think one should not be occurring. Receiving the error points me to the line of code that I need to address for this test case.  Once these tests are completed, I will go back and add null checks where appropriate.
+
+## Other Manager Classes
 And finally, to see the other manager scripts, you can check out the [Managers folder here](https://github.com/dangerdaren/MergeMeals/tree/master/Assets/Scripts/Managers).
 
 
