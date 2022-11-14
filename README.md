@@ -3,9 +3,9 @@
 </p>
 
 # Merge: Meals
-This is a project I am working on with a friend in another state. While we actually use PlasticSCM for remote collaboration, I've set up this repository for the purpose of sharing my code with any interested parties.
+### [See Merge: Meals](https://daren-stottrup.notion.site/Merge-Meals-1f50444c94a7426ebe59e2c6b81f927e) on my [portfolio](https://daren-stottrup.notion.site/Game-Portfolio-3bc5aac8cfcb4d32af26f20301371155)
 
-To learn more about this game visit [Merge: Meals](https://daren-stottrup.notion.site/Merge-Meals-1f50444c94a7426ebe59e2c6b81f927e) on my [portfolio](https://daren-stottrup.notion.site/Game-Portfolio-3bc5aac8cfcb4d32af26f20301371155).
+This is a project I am working on with a friend in another state. While we actually use PlasticSCM for remote collaboration, I've set up this repository for the purpose of sharing my code with any interested parties.
 
 To read about what I'm most proud of with this project see: [OrderManager.cs](#ordermanagercs) and [Level.cs](#levelcs).
 
